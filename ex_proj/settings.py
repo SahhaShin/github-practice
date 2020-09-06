@@ -25,7 +25,7 @@ SECRET_KEY = 'r--bmm-$w$yd%bfi(lkmv^!z4mwb*h=o3h$92de6kd+k6!6lyp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kongnamu-env.eba-mjpdngth.us-west-2.elasticbeanstalk.com']
 
 
 # Application definition
